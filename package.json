@@ -1,0 +1,17 @@
+{
+  "name": "ImageResizerDesktop",
+  "version": "1.0.0",
+  "description": "This is an introductory application built to develop a skill set towards building desktop applications. The goal of the application is to be able to resize a given image.",
+  "main": "main.js",
+    "scripts": {
+    "startDev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/chrispatrickcodes/ImageResizerDesktop.git",
+  "author": "Christopher Patrick <cpat3@live.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "electron": "^37.2.4"
+  }
+}
